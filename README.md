@@ -1,7 +1,7 @@
 # Prometheus Monitoring on Kubernetes
 This repository demonstrates how Prometheus can be used to monitor Kubernetes clusters.
 
-Prometheus is an open source monitoring framework. As Kubernetes is spunned from Google's Borg and Prometheus draws a lot of inspiration from Borgmon(Google's internal monitoring system), it is actively used by community to monitor Kubernetes clusters.
+**Prometheus** is an open source monitoring framework. As Kubernetes is spunned from Google's Borg and Prometheus draws a lot of inspiration from Borgmon(Google's internal monitoring system), it is actively used by community to monitor Kubernetes clusters. Prometheus uses Grafana(https://grafana.com/) to display various metrices on dashboards.
 
 ## Pre-requisites:
 Following are the pre-requisites required to run this project:
